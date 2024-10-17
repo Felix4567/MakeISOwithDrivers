@@ -1,7 +1,7 @@
 #Requires -RunAsAdministrator
 
 <#
-INFO: 
+INFO: HALLOO RUUUD
 https://woshub.com/integrate-drivers-to-windows-install-media/
 https://w365.dk/index.php/2022/03/19/how-to-add-drivers-to-windows-installation-iso-windows-10-11/
 https://github.com/wikijm/PowerShell-AdminScripts/blob/master/Miscellaneous/New-IsoFile.ps1
