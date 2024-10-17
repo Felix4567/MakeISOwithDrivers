@@ -172,3 +172,5 @@ Write-Host ""
 
 # Done
 Write-Host "Done. The new image is located in $newISO." -ForegroundColor Green
+
+Write-Host -NoNewLine 'Press any key to exit the shell...';$null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
