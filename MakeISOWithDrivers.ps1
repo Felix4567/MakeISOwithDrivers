@@ -1,7 +1,7 @@
 #Requires -RunAsAdministrator
 
 <#
-INFO: HALLOO RUUUD
+INFO: 
 https://woshub.com/integrate-drivers-to-windows-install-media/
 https://w365.dk/index.php/2022/03/19/how-to-add-drivers-to-windows-installation-iso-windows-10-11/
 https://github.com/wikijm/PowerShell-AdminScripts/blob/master/Miscellaneous/New-IsoFile.ps1
@@ -172,5 +172,3 @@ Write-Host ""
 
 # Done
 Write-Host "Done. The new image is located in $newISO." -ForegroundColor Green
-
-Write-Host -NoNewLine 'Press any key to exit the shell...';$null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
